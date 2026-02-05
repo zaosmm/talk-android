@@ -12,7 +12,7 @@
     <string name="nc_talk_login_scheme" translatable="false">nc</string>
     <bool name="nc_is_debug">false</bool>
 
-    <string name="nc_app_name">Сообщения</string>
+    <string name="nc_app_name">zaosmm_messages</string>
     <string name="nc_app_product_name">ЗАО СММ Сообщения</string>
     <string name="nc_server_product_name">Nextcloud</string>
 
@@ -22,7 +22,7 @@
     <bool name="hide_provider">true</bool>
     <bool name="hide_auth_cert">true</bool>
     <bool name="multiaccount_support">false</bool>
-    <string name="weblogin_url" translatable="false">https://x70-cloud-002-nobel.fo7.ru</string>
+    <string name="weblogin_url" translatable="false">https://cloud.zaosmm.ru</string>
 
     <!-- Will not be shown if empty -->
     <string name="nc_privacy_url" translatable="false"></string>
